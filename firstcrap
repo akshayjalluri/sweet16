@@ -1,0 +1,36 @@
+<!doctype html>
+<head>
+  <title> Sushi boi </title>
+</head>
+<body>
+  <h1> Shoes </h1>
+  <p> My favorite pair of shoes is my yeezys </p>
+  <h1> Coding </h1>
+  <p> I hate coding <p>
+    <ul>
+      <li> wassup </li>
+    </ul>
+  <h4> Top 10 favorite guns in Fortnite </h4>
+    <ol>
+      <li> Assault Rifle </li>
+      <li> Drum Gun </li>
+      <li> Light Machine Gun </li>
+      <li> Grenade Launcher </li>
+      <li> Tactical Submachine Gun </li>
+      <li> Rocket Launcher </li>
+      <li> Tactical Shotgun </li>
+      <li> Dual Pistols </li>
+      <li> Pump Shotgun </li>
+      <li> Bolt-Action Sniper </li>
+    </ol>
+  <div>
+    <a href= "http://www.google.com/" > Here's a link to google! </a>
+  </div>
+  <img src= "https://pbs.twimg.com/media/DUbijzPXUAEJJ58.jpg" </img>
+  <h2> ^^^Biggest clickbait Fortnite Youtuber of all time!! </h2>
+  <p> Actually that is not true. Other Youtubers clickbait more than Ali A. Ali A is GOAT!! </p>
+  <form>
+    How is life:<br>
+    <input type="text" name="answer" placeholder= "Answer"> </br>
+</body>
+</html>
